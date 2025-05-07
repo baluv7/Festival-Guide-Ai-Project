@@ -69,4 +69,4 @@ This project was developed using AI-assisted tools:
 - Development workflow enhancement
 
 
-Made with ❤️ and AI
+
